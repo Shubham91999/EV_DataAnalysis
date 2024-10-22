@@ -41,7 +41,6 @@
         <li><strong>Visualization:</strong> Grid View</li>
         <li><strong>Description:</strong> Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.</li>
     </ul>
-
-    Tableau Dashboard: <link>https://public.tableau.com/views/EV_DataAnalysis_17295684020190/EVDATAANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link</link>
+Tableau Dashboard: <link>https://public.tableau.com/views/EV_DataAnalysis_17295684020190/EVDATAANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link</link>
 </body>
 </html>
