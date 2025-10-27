@@ -18,7 +18,7 @@ The dashboard provides policymakers, manufacturers, and analysts with insights i
 
 ## 🖼️ Dashboard Preview
 
-![EV Data Analysis Dashboard](5539f554-cf70-4bcd-8ac3-530cbfc12ce3.png)
+![EV Data Analysis Dashboard](ev_dashboard.png)
 
 ---
 
